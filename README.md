@@ -27,16 +27,17 @@
 
 ### Random Dev Quote
 <p align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
 ### Top Contributed Repo
-<p align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=viignessh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</p>
+
 
 ### Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="center">
+<img src="https://memer-seven.vercel.app/" width="512px"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=viignessh&icon=0&color=0)](https://visitcount.itsvg.in)
