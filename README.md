@@ -30,10 +30,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=viignessh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 ### Random Dev Meme
 <p align="center">
 <img src="https://memer-seven.vercel.app/" width="512px"/>
