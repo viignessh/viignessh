@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh Prabhakar</h1>
-🔭 Currently working on FreeRam Rewrite<br>👯 Appreciate any help on REACT/Angular or C/Java projects<br>🌱 I'm currently learning C#<br>💬 Ask me about REACT/Angular/MERN/C/C++ or anything in general<br>⚡ You don’t have to work in tech to use coding<br>
-
+🔭 Currently working on FreeRam Rewrite<br>👯 Appreciate any help on REACT/Angular or C/Java projects<br>🌱 I'm currently learning C#<br>💬 Ask me about REACT/Angular/MERN/C/C++ or anything in general<br>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/viignessh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vignesh-prabhakar-36305b224/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/__Chazzy__) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/twitch.tv/chazzy_val) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/viignessh) 
