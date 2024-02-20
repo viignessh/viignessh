@@ -1,4 +1,3 @@
-# About Me:
 <h1 align="center">Hi 👋, I'm Vignesh Prabhakar</h1>
 🔭 Currently workin on FreeRam Rewrite<br>👯 Appreciate any help on REACT/Angular or C/Java projects<br>🌱 I'm currently learning C#<br>💬 Ask me about REACT/Angular/MERN/C/C++ or anything in general<br>⚡ You don’t have to work in tech to use coding<br>
 
